@@ -6,11 +6,21 @@ http://www.templatemo.com/tm-501-neaty
 
 */
 body {
-	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-	font-size: 20px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
 	font-weight: 300;
 	overflow-x: hidden;
-	background-color: black;
+	background-image:url(../img/back.jpg);
+	background-color: rgba(0, 0, 0, 0.9);
+}
+
+.transparent {
+    background-color:rgba(0,0,0,0.9);
+}
+
+.pad {
+	padding-right: 15px;
+	padding-left: 15px;
 }
 
 a, button { transition: all 0.3s ease; }
@@ -24,7 +34,7 @@ a:focus {
 .tm-left-right-container { width: 100%; }
 
 .tm-blue-bg {
-	background-color: #006699;
+	background-color: rgba(2, 61, 105, 0.9);
 	color: white;
 }
 
@@ -32,7 +42,7 @@ a:focus {
 .tm-blue-bg a {	color: white; }
 
 .tm-site-name {
-	font-size: 4rem;
+	font-size: 3rem;
 	margin-top: 20px;
 }
 
@@ -71,7 +81,7 @@ p { line-height: 2; }
 .tm-button:hover,
 .tm-button:active,
 .tm-button:focus {
-	background-color: #2790c6;
+	background-color: #006699;
 	color: white;
 }
 
@@ -141,6 +151,20 @@ textarea:-ms-input-placeholder {
 
 .tm-contact-right {	padding-left: 15px; }
 .tm-copyright-p { margin-bottom: 0; }
+
+.section-text {
+    line-height: 1.6;
+    font-size: 1em;
+    margin-bottom: 15px;
+    color: #FFF;
+}
+
+.section-title {
+    font-size: 1.5em;
+    margin-top: 0;
+    margin-bottom: 25px;
+    color: #006699
+}
 
 /* Media Queries */
 @media (min-width: 576px) {
