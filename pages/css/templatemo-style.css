@@ -42,9 +42,10 @@ a:focus {
 .tm-blue-bg a {	color: white; }
 
 .tm-site-name {
-	font-size: 3rem;
-	margin-top: 20px;
+	font-weight:300;
+	font-size: 38px;
 }
+
 
 .tm-logo-div {
 	padding-top: 40px;
