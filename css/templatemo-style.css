@@ -100,7 +100,7 @@ p {
     font-size: 30px;
 }
 
-#home {
+#aboutme {
     padding-top: 8.5em;
 }
 .content {
@@ -147,8 +147,8 @@ p {
     font-weight: 300;
     font-size: 34px;
     line-height: 1.4;
-    margin-top: 70px;
-    margin-bottom: 70px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 .section-title {
     font-size: 1.5em;
@@ -166,7 +166,7 @@ p {
 .dark-blue-bordered-btn:focus,
 .dark-blue-btn {
     background: #006699;
-    color: white;
+    color: #CCCCCC;
 }
 .dark-blue-btn:hover,
 .dark-blue-btn:focus,
@@ -179,6 +179,10 @@ p {
     line-height: 1.6;
     font-size: 1em;
     margin-bottom: 15px;
+    color: #FFF;
+}
+.section-text2 {
+    font-size: 1em;
     color: #FFF;
 }
 .background ul {
@@ -222,26 +226,6 @@ p {
 .no-bg {
     background: none;
     border: 1px solid #fff;
-}
-.yellow-btn {
-    background:#ACA633;
-    border:1px solid #ACA633;
-    color:#fff;
-}
-.yellow-btn:hover,
-.yellow-btn:focus {
-    background: none;
-    color: #ACA633;
-}
-.green-btn {
-    background:#168887;
-    border:1px solid #168887;
-    color:#fff;
-}
-.green-btn:hover,
-.green-btn:focus {
-    background: none;
-    color: #168887;
 }
 .normal-btn {
     font-size: 16px;
