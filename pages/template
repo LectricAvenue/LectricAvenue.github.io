@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Work Experience</title>
+    <title>Neaty HTML Web Template</title>
 <!--
 Neaty HTML Template
 http://www.templatemo.com/tm-501-neaty
@@ -32,29 +32,28 @@ http://www.templatemo.com/tm-501-neaty
                     <div class="tm-blue-bg tm-left-column">
                         <div class="tm-logo-div text-xs-center">
                             <!-- <img src="img/placeholder" alt="Logo"> -->
-                            <h1 class="tm-site-name">Work Experience</h1>
+                            <h1 class="tm-site-name">About Me</h1>
                         </div>
                         <nav class="tm-main-nav">
                             <ul class="tm-main-nav-ul">
                                 <li class="tm-nav-item">
-                                    <a href="#overview" class="tm-nav-item-link">Overview</a>
-                                <li class="tm-nav-item">
-                                    <a href="#softmatter" class="tm-nav-item-link">Soft Matter</a>
+                                    <a href="#welcome" class="tm-nav-item-link">Biography</a>
                                 </li>
                                 <li class="tm-nav-item">
-                                    <a href="#system" class="tm-nav-item-link">System Planning</a>
+                                    <a href="#about" class="tm-nav-item-link">Interests</a>
                                 </li>
                                 <li class="tm-nav-item">
-                                    <a href="#optics" class="tm-nav-item-link">Optics and Photonics</a>
-                                </li>
-                                <li class="tm-nav-item">
-                                    <a href="#curtiss" class="tm-nav-item-link">Software</a>
-                                </li>
-                                </li>
-                                <!--<li class="tm-nav-item">
                                     <a href="#galleryone" class="tm-nav-item-link">Gallery One</a>
                                 </li>
-                              -->
+                                <li class="tm-nav-item">
+                                    <a href="#secondgallery" class="tm-nav-item-link">Second Gallery</a>
+                                </li>
+                                <li class="tm-nav-item">
+                                    <a href="#thirdgallery" class="tm-nav-item-link">Third Gallery</a>
+                                </li>
+                                <li class="tm-nav-item">
+                                    <a href="#contact" class="tm-nav-item-link">Contact Us</a>
+                                </li>
                             </ul>
                         </nav>
                     </div> <!-- Left column: logo and menu -->
@@ -63,71 +62,54 @@ http://www.templatemo.com/tm-501-neaty
                     <div class="tm-right-column">
                       <div class="pad">
                         <figure>
-                            <img src="img/office.jpg" alt="Header image" class="img-fluid">
+                            <img src="img/plaquecopy.jpg" alt="Header image" class="img-fluid">
                         </figure>
                       </div>
 
                         <div class="tm-content-div">
                             <!-- Welcome section -->
-                            <section id="overview" class="tm-section">
+                            <section id="welcome" class="tm-section">
                                 <header>
-                                    <h2 class="tm-blue-text tm-welcome-title tm-margin-b-45">Work Experience</h2>
+                                    <h2 class="tm-blue-text tm-welcome-title tm-margin-b-45">Who I Am</h2>
                                 </header>
-                                <p class="section-text">Throughout my university career I have seeked out many opportunities to further my education in the form of work experience.
-                                  These opportunities have been through both my co-operative education program, as well as opportunities that I pursued on my own. This page contains descriptions of
-                                  all the positions that I have held."<br><br></p>
+                                <p class="section-text">My name is Colin Hunt and I am a driven young engineering
+                                  student who gets things. This section of my website is dedicated to telling you
+                                  about what I like to do outside of engineering. I want to show you
+                                  that I am a well rounded individual who is very capable of balancing life, school
+                                  and work.</p><br><br>
 
-                            <section id="softmatter" class="tm-section">
-                              <br><br><br>
                                 <header>
-                                    <h2 class="tm-blue-text tm-margin-b-45">Soft Matter Research Student (Dr. Anand Yethiraj)</h2>
+                                    <h2 class="tm-blue-text tm-margin-b-45">Athletics</h2>
                                 </header>
 
-                                <p class="section-text">Dr. Anand Yethiraj and his group, including myself during my time there, are currently conducting experiments on colloids in the presence of electric fields. the goal is to discover more about the dynamics of these particles.
-
-Reponsibilities:
-
-- Manually producing test chambers
-- Adjusting the refractive index of the solution to collect more meaningful results.
-- Conducting experiments involving colloids
-- Analyzing results of experiments
-- Conducting image processing on the results of the experiments
-                                <br><br>
+                                <p class="section-text">I have been a competitive athlete for as long as I can remember.
+                                  I have played a large variety of sports, and forged friendships that will last a lifetime.
+                                  I enjoy playing at a high level, because even though I play sports for fun, I enjoy
+                                  pushing my limits in order to get better. Some of the sports that I play require teamwork,
+                                  and others are individual sports. Both types are important to me because it is essential to
+                                  be able to perform on your own, as well as in a team.<br><br>
                                 </p>
 
-                            <section id="system" class="tm-section">
-                              <br><br><br>
                                 <header>
-                                    <h2 class="tm-blue-text tm-margin-b-45">System Planning Co-op Student (Newfoundland Power Inc.)</h2>
+                                    <h2 class="tm-blue-text tm-margin-b-45">Arts</h2>
                                 </header>
 
-                                <p class="section-text">Newfoundland Power is the primary distribution utility in Newfoundland, however they are also involved with generation using gas, diesel and water turbines. The System Planning Department at Newfoundland Power Inc. is responsible for conducting studies on the company's electrical system and assessing the validity of the assets incorporated within. This information is used to help plan for additions to and reconfiguration of the system in the future to ensure the company provides proper service to the customers.
-<br><br>
-                                </p>
-                            </section>
-
-                            <section id="optics" class="tm-section">
-                                <header>
-                                    <h2 class="tm-blue-text tm-margin-b-45">Optics and Photonics Researcher (Dr. Qiying Chen)</h2>
-                                </header>
-
-                               <p class="section-text">Researchers at the Optics and Photonics Research Laboratory study optical science and technology on the time scale of femtoseconds and the length scale of nanometers. The primary techniques include wavelength-tunable femtosecond lasers and near-field scanning optical microscopes.
-<br><br>
+                               <p class="section-text">I am also very fond of the arts. I love to play different instruments, as
+                                 well as write for them. I play the Piano, the Banjo, the Guitar, and the Theremin. I find that
+                                 playing music is a productive way to relax, as it still requires a high level of attention to detail,
+                                 creativity, and dexterity.<br><br>
+                                 Other than intrumental music, I have been performing in Musical Theatre productions since 2009.
+                                 I began as an exclusive dancer, but broadened my horizons and took on singing parts as I progressed
+                                 as a performer. The shows that I have been involved with have been the most important team experiences
+                                 that I have had to date. There are so many different and eclectic personalities in theatre that must
+                                 come together to put off a show, and every task involved cooperation and hard work. A good example of
+                                 this is when it comes time to coordinate the cast with the orchestra. Teamwork is incredibly important
+                                 as everyone on stage must have some sort of relationship with one another, and everyone is there to help each other.<br><br>
                                </p>
-                            </section>
-
-                            <section id="curtiss" class="tm-section">
-                               <header>
-                                   <h2 class="tm-blue-text tm-margin-b-45">Curtiss-Wright (Software Co-op)</h2>
-                               </header>
-
-                              <p class="section-text">At Curtiss-Wright as a Software Engineering Co-op, I gained significant experience with many different operating systems including Linux, Windows, and the RTOS VxWorks. In this position, focus was mainly on the development, testing and verification of embedded software. I was involved with the development of firmware, PBIT, PABS and other pieces of software essential to the BSPs This position gave me a great understanding of computer architecture and single board computers. By collaborating closely with hardware engineers, this work term allowed me to see both sides of the high tech world and gave me a deep understanding of how hardware and software work together. During this work term I also spent a large amount of time automating tests. Through this I learned to think outside of the box and develop creative solutions to problems.
-<br><br>
-                              </p>
                              </section>
 
                             <!-- Gallery One section -->
-                            <!--<section id="galleryone" class="tm-section">
+                            <section id="galleryone" class="tm-section">
                                 <header><h2 class="tm-blue-text tm-section-title tm-margin-b-30">Gallery</h2></header>
                                 <div class="tm-gallery-container tm-gallery-1">
                                     <div class="tm-img-container tm-img-container-1">
@@ -147,7 +129,7 @@ Reponsibilities:
                                     </div>
                                 </div>
                             </section>
-                          -->
+
                             </section>
                             <footer>
                                 <p class="section-text" class="tm-copyright-p">Copyright &copy; <span class="tm-current-year">2017</span> Colin Hunt</a></p>
